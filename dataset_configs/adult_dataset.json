@@ -1,0 +1,31 @@
+{
+    "db_dir": "/tungstenfs/scratch/gfriedri/hubo/Dp_manifold/BNP_dataset/data/Claire",
+    "processed_trace_dir": "/tungstenfs/scratch/gfriedri/hubo/Dp_manifold/BNP_dataset/data/Claire/spike_prob/dorsal/per_odor_aligned/index_formatted_firing_rate",
+    "exp_list": [
+        ["Extracted_Data_mock1_Fish1", "naive"],
+        ["Extracted_Data_mock4_FishX", "naive"],
+        ["Extracted_Data_mock5_FishX", "naive"],
+        ["Extracted_Data_mock6_FishX", "naive"],
+        ["Extracted_Data_mock8_FishY", "naive"],
+        ["Extracted_Data_mockA10_FishX", "naive"],
+        ["Extracted_Data_mockA10_FishY", "naive"],
+        ["Extracted_Data_mockA10_fishZ", "naive"],
+        ["Extracted_Data_Exp4_Fish3", "trained"],
+        ["Extracted_Data_Exp6_Fish1", "trained"],
+        ["Extracted_Data_Exp6_Fish4", "trained"],
+        ["Extracted_Data_Exp7_Fish3", "trained"],
+        ["Extracted_Data_Exp8_Fish1", "trained"],
+        ["Extracted_Data_Exp8_Fish4", "trained"],
+        ["Extracted_Data_ExpA10_Setup2_Fish1", "trained"],
+        ["Extracted_Data_ExpA10_Setup2_Fish2", "trained"],
+        ["Extracted_Data_ExpA10_Setup3_Fish1", "trained"]
+    ],
+    "odors": ["Food", "Ala", "Trp", "His", "Ser", "TDCA", "ACSF"],
+    "odors_stimuli": ["Trp", "Ala", "His", "Ser"],
+    "odors_learned": ["Trp", "Ala"],
+    "odors_novel": ["His", "Ser"],
+    "conditions": ["naive", "trained"],
+    "frame_rate": 7.5,
+    "num_trials": 3,
+    "results_dir": "/tungstenfs/scratch/gfriedri/hubo/Dp_manifold/BNP_dataset/results"
+}

@@ -1,0 +1,30 @@
+{
+    "db_dir": "/tungstenfs/scratch/gfriedri/hubo/Dp_manifold/simulation_dataset/data/levels_of_corr",
+    "processed_trace_dir": "/tungstenfs/scratch/gfriedri/hubo/Dp_manifold/simulation_dataset/data/levels_of_corr/spike_prob",
+    "exp_list": [
+        ["A_1_small", "rand"],
+        ["A_3_small", "rand"],
+        ["B_8_small", "rand"],
+        ["B_10_small", "rand"],
+        ["C_1_small", "rand"],
+        ["C_5_small", "rand"],
+        ["D_1_small", "rand"],
+        ["D_5_small", "rand"],
+        ["A_1_small_tuned_ei", "tuned_ei"],
+        ["A_3_small_tuned_ei", "tuned_ei"],
+        ["B_8_small_tuned_ei", "tuned_ei"],
+        ["B_10_small_tuned_ei", "tuned_ei"],
+        ["C_1_small_tuned_ei", "tuned_ei"],
+        ["C_5_small_tuned_ei", "tuned_ei"],
+        ["D_1_small_tuned_ei", "tuned_ei"],
+        ["D_5_small_tuned_ei", "tuned_ei"]
+    ],
+    "odors": ["odor1", "odor2", "odor3", "odor4", "odor5"],
+    "odors_stimuli": ["odor1", "odor2", "odor3", "odor4", "odor5"],
+    "odors_aa": ["odor1", "odor2", "odor3", "odor4", "odor5"],
+    "odors_ba": ["odor1", "odor2", "odor3", "odor4", "odor5"],
+    "conditions": ["rand", "tuned_ei"],
+    "frame_rate": 10,
+    "num_trials": 4,
+    "fig_dir": "/tungstenfs/scratch/gfriedri/hubo/Dp_manifold/simulation_dataset/figures/levels_of_corr/"
+}
