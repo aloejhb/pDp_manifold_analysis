@@ -26,5 +26,5 @@
     "conditions": ["rand", "scaled_n"],
     "frame_rate": 10,
     "num_trials": 4,
-    "fig_dir": "/tungstenfs/scratch/gfriedri/hubo/Dp_manifold/simulation_dataset/figures/smallnet"
+    "results_dir": "/tungstenfs/scratch/gfriedri/hubo/Dp_manifold/simulation_dataset/results"
 }
