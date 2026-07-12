@@ -21,8 +21,8 @@ simulation_window_name_to_frames = {
     'time_window_2s': [11, 29],
 }
 
-simulation_distance_window_name_to_sample_size = {'time_window_2s': 80}
-simulation_distance_window_name_to_seed = {'time_window_2s': 123}
+simulation_distance_window_name_to_sample_size = {'time_window_2s': 100}
+simulation_distance_window_name_to_seed = {'time_window_2s': 104}
 simulation_capacity_window_name_to_M = {'time_window_2s': 50}
 simulation_capacity_window_name_to_seed = {'time_window_2s': 123}
 
